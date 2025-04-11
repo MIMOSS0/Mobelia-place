@@ -1,4 +1,10 @@
-// ------------ كود الـ Slider والمنتجات (لكل نموذج منتج واحد بثلاث صور) ------------
+
+  window.addEventListener("load", function () {
+    const loader = document.getElementById("loading-screen");
+    loader.style.display = "none";
+  });
+
+
 const productsList = [
   {
     imgs: [
