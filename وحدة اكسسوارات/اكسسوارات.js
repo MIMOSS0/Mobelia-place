@@ -1,3 +1,12 @@
+ 
+  window.addEventListener("load", function () {
+    const loader = document.getElementById("loading-screen");
+    loader.style.display = "none";
+  });
+
+
+ 
+ 
  const productsList = [
   {
     imgs: ["../image/اكسسوارات/١.jpg"],
