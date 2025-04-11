@@ -1,3 +1,12 @@
+
+  window.addEventListener("load", function () {
+    const loader = document.getElementById("loading-screen");
+    loader.style.display = "none";
+  });
+
+
+
+
 // ------------ كود الـ Slider والمنتجات (لكل نموذج منتج واحد بثلاث صور) ------------
 const productsList = [
   {
