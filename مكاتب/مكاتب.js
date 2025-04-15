@@ -6,147 +6,147 @@
 
 const productsList = [
   {
-    imgs: ["../image/مكاتب/مكاتب١.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١.webp"],
     name: "M001 مكتب",
     price: "2500"
   },
   {
-    imgs: ["../image/مكاتب/مكاتب٢.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢.webp"],
     name: "M002 مكتب",
     price: "2800"
   },
   {
-    imgs: ["../image/مكاتب/مكاتب٣.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٣.webp"],
     name: "M003 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٤.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٤.webp"],
     name: "M004 مكتب",
     price: "2000"
   }, 
    {
-    imgs: ["../image/مكاتب/مكاتب٥.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٥.webp"],
     name: "M005 مكتب",
     price: "2800"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٦.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٦.webp"],
     name: "M006 مكتب",
     price: "3000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٧.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٧.webp"],
     name: "M007 مكتب",
     price: "2800"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٨.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٨.webp"],
     name: "M008 مكتب",
     price: "3000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٩.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٩.webp"],
     name: "M009 مكتب",
     price: "2800"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٠.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٠.webp"],
     name: "M010 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١١.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١١.webp"],
     name: "M011 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٢.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٢.webp"],
     name: "M012 مكتب",
     price: "2000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٣.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٣.webp"],
     name: "M013 مكتب",
     price: "3500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٤.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٤.webp"],
     name: "M014 مكتب",
     price: "1500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٥.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٥.webp"],
     name: "M015 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٦.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٦.webp"],
     name: "M016 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٧.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٧.webp"],
     name: "M017 مكتب",
     price: "1500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٨.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٨.webp"],
     name: "M018 مكتب",
     price: "2000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب١٩.jpg"],
+    imgs: ["../image/مكاتب/مكاتب١٩.webp"],
     name: "M019 مكتب",
     price: "4200"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٠.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٠.webp"],
     name: "M020 مكتب",
     price: "6500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢١.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢١.webp"],
     name: "M021 مكتب",
     price: "3000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٢.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٢.webp"],
     name: "M022 مكتب",
     price: "4800"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٣.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٣.webp"],
     name: "M023 مكتب",
     price: "5200"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٤.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٤.webp"],
     name: "M024 مكتب",
     price: "3000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٥.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٥.webp"],
     name: "M025 مكتب",
     price: "3000"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٦.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٦.webp"],
     name: "M026 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٧.jpg"],
+    imgs: ["../image/مكاتب/مكاتب٢٧.webp"],
     name: "M027 مكتب",
     price: "2500"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٨.png"],
+    imgs: ["../image/مكاتب/مكاتب٢٨.webp"],
     name: "M028 مكتب",
     price: "2800"
   },
    {
-    imgs: ["../image/مكاتب/مكاتب٢٩.png"],
+    imgs: ["../image/مكاتب/مكاتب٢٩.webp"],
     name: "M029 مكتب",
     price: "2500"
   }
