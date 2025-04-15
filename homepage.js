@@ -10,7 +10,7 @@
 
 
 const productsList = [
-       [   { img: "/image/سرير/سرير مع كمود/١.jpg", name: "B001 سرير مع كمود", price: "10500", details: `<details class="t1">
+       [   { img: "/image/سرير/سرير مع كمود/١.webp", name: "B001 سرير مع كمود", price: "10500", details: `<details class="t1">
           <summary></summary>
           <p>
             
@@ -83,7 +83,7 @@ const productsList = [
 </div>
           </p>
         </details>` },
-         { img: "/image/سرير/سرير مع كمود/١٣.jpg", name: "B013 سرير مع كمود", price: "10800", details: ` <details class="t1">
+         { img: "/image/سرير/سرير مع كمود/١٣.webp", name: "B013 سرير مع كمود", price: "10800", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -156,7 +156,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-          { img: "/image/سرير/سرير مع كمود/٩.jpg", name: "B009 سرير", price: "14600", details: `<details class="t1">
+          { img: "/image/سرير/سرير مع كمود/٩.webp", name: "B009 سرير", price: "14600", details: `<details class="t1">
           <summary></summary>
           <p>
             
@@ -240,7 +240,7 @@ const productsList = [
     
     
     [
-        { img: "/image/دولاب/دولاب٣.jpg", name: "D003 دولاب", price: "3500", details: ` <details class="t1">
+        { img: "/image/دولاب/دولاب٣.webp", name: "D003 دولاب", price: "3500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -290,7 +290,7 @@ const productsList = [
 </div>
           </p>
         </details>` },
-        { img: "/image/دولاب/دولاب٢٥.jpg", name: "D025 دولاب", price: "4000", details: `<details class="t1">
+        { img: "/image/دولاب/دولاب٢٥.webp", name: "D025 دولاب", price: "4000", details: `<details class="t1">
           <summary></summary>
           <p>
             
@@ -342,7 +342,7 @@ const productsList = [
 </div>
           </p>
         </details>` },
-        { img: "/image/دولاب/دولاب٢٩.jpg", name: "D029 دولاب", price: "4000", details: `<details class="t1">
+        { img: "/image/دولاب/دولاب٢٩.webp", name: "D029 دولاب", price: "4000", details: `<details class="t1">
           <summary></summary>
           <p>
             
@@ -395,7 +395,7 @@ const productsList = [
 
       ],
       [
-        { img: "/image/تسريحة/٧.jpg", name: "R007 تسريحة", price: "5000" , details: `<details class="t1">
+        { img: "/image/تسريحة/٧.webp", name: "R007 تسريحة", price: "5000" , details: `<details class="t1">
           <summary></summary>
           <p>
             
@@ -452,7 +452,7 @@ const productsList = [
 </div>
           </p>
         </details>`},
-        { img: "/image/تسريحة/٨.jpg", name: "R008 تسريحة", price: "4500", details: ` <details class="t1">
+        { img: "/image/تسريحة/٨.webp", name: "R008 تسريحة", price: "4500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -509,7 +509,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/تسريحة/٩.jpg", name: "R009 تسريحة", price: "4000", details: `  <details class="t1">
+        { img: "/image/تسريحة/٩.webp", name: "R009 تسريحة", price: "4000", details: `  <details class="t1">
           <summary></summary>
           <p>
             
@@ -575,7 +575,7 @@ const productsList = [
       
       
       [
-        { img: "/image/اكسسوارات/٢.jpg", name: "E002 وحدة اكسسوار", price: "4000" , details: ` <details class="t1">
+        { img: "/image/اكسسوارات/٢.webp", name: "E002 وحدة اكسسوار", price: "4000" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -633,7 +633,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/اكسسوارات/٤.jpg", name: "E004 وحدة اكسسوار", price: "3000" , details: ` <details class="t1">
+        { img: "/image/اكسسوارات/٤.webp", name: "E004 وحدة اكسسوار", price: "3000" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -691,7 +691,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/اكسسوارات/٥.jpg", name: "E005 وحدة اكسسوار", price: "4500" , details: ` <details class="t1">
+        { img: "/image/اكسسوارات/٥.webp", name: "E005 وحدة اكسسوار", price: "4500" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -764,7 +764,7 @@ const productsList = [
       
       
       [
-        { img: "/image/جزامات/جزامة٢.jpg", name: "G002 جزامة", price: "4500", details: ` <details class="t1">
+        { img: "/image/جزامات/جزامة٢.webp", name: "G002 جزامة", price: "4500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -819,7 +819,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/جزامات/جزامة١٤.jpg", name: "G014جزامة", price: "7000", details: ` <details class="t1">
+        { img: "/image/جزامات/جزامة١٤.webp", name: "G014جزامة", price: "7000", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -874,7 +874,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/جزامات/جزامة٢٧.jpg", name: "G027جزامة", price: "6000", details: ` <details class="t1">
+        { img: "/image/جزامات/جزامة٢٧.webp", name: "G027جزامة", price: "6000", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -931,7 +931,7 @@ const productsList = [
         </details> ` }
       ],
       [
-        { img: "/image/تليفزيون/وحدة١٢.jpg", name: "C01 وحدة تليفزيون", price: "1800" , details: ` <details class="t1">
+        { img: "/image/تليفزيون/وحدة١٢.webp", name: "C01 وحدة تليفزيون", price: "1800" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -980,7 +980,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/تليفزيون/وحدة٢٨.jpg", name: "C05 وحدة تليفزيون", price: "3000" , details: ` <details class="t1">
+        { img: "/image/تليفزيون/وحدة٢٨.webp", name: "C05 وحدة تليفزيون", price: "3000" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1029,7 +1029,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/تليفزيون/وحدة٣٢.jpg", name: "C17 وحدة تليفزيون", price: "2200", details: `   <details class="t1">
+        { img: "/image/تليفزيون/وحدة٣٢.webp", name: "C17 وحدة تليفزيون", price: "2200", details: `   <details class="t1">
           <summary></summary>
           <p>
             
@@ -1080,7 +1080,7 @@ const productsList = [
         </details> ` }
       ],
       [
-        { img: "/image/ترابيزات وسط/ترابيزة٤.jpg", name: "W004 ترابيزة وسط", price: "2300" , details: ` <details class="t1">
+        { img: "/image/ترابيزات وسط/ترابيزة٤.webp", name: "W004 ترابيزة وسط", price: "2300" , details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1133,7 +1133,7 @@ const productsList = [
 </div>
           </p>
         </details> `},
-        { img: "/image/ترابيزات وسط/ترابيزة١٢.jpg", name: "W012 ترابيزة وسط", price: "2000", details: ` <details class="t1">
+        { img: "/image/ترابيزات وسط/ترابيزة١٢.webp", name: "W012 ترابيزة وسط", price: "2000", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1186,7 +1186,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/ترابيزات وسط/ترابيزة١٣.jpg", name: "W013 ترابيزة وسط", price: "1600", details: ` <details class="t1">
+        { img: "/image/ترابيزات وسط/ترابيزة١٣.webp", name: "W013 ترابيزة وسط", price: "1600", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1241,7 +1241,7 @@ const productsList = [
         </details> ` }
       ],
       [
-        { img: "/image/ترابيزات جانبية/5.jpg", name: "P005 ترابيزة جانبية", price: "900", details: `  <details class="t1">
+        { img: "/image/ترابيزات جانبية/5.webp", name: "P005 ترابيزة جانبية", price: "900", details: `  <details class="t1">
           <summary></summary>
           <p>
             
@@ -1295,7 +1295,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/ترابيزات جانبية/6.jpg", name: "P006 ترابيزة جانبية", price: "1100", details: ` <details class="t1">
+        { img: "/image/ترابيزات جانبية/6.webp", name: "P006 ترابيزة جانبية", price: "1100", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1349,7 +1349,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/ترابيزات جانبية/4.jpg", name: "P004 ترابيزة جانبية", price: "1000", details: ` <details class="t1">
+        { img: "/image/ترابيزات جانبية/4.webp", name: "P004 ترابيزة جانبية", price: "1000", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1405,7 +1405,7 @@ const productsList = [
         </details> ` }
       ],
        [
-        { img: "/image/بوفية/بوفيه٤.jpg", name: "R004 بوفية", price: "14000", details:` <details class="t1">
+        { img: "/image/بوفية/بوفيه٤.webp", name: "R004 بوفية", price: "14000", details:` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1459,7 +1459,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/بوفية/بوفيه٦.jpg", name: "R006 بوفية", price: "14000", details:` <details class="t1">
+        { img: "/image/بوفية/بوفيه٦.webp", name: "R006 بوفية", price: "14000", details:` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1513,7 +1513,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/بوفية/بوفيه٨.png", name: "R008 بوفية", price: "14000", details:` <details class="t1">
+        { img: "/image/بوفية/بوفيه٨.webp", name: "R008 بوفية", price: "14000", details:` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1569,7 +1569,7 @@ const productsList = [
         </details> ` }
       ],
       [
-        { img: "/image/مكتبة/مكتبة٩.jpg", name: "L009 مكتبة", price: "1800", details: ` <details class="t1">
+        { img: "/image/مكتبة/مكتبة٩.webp", name: "L009 مكتبة", price: "1800", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1626,7 +1626,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/مكتبة/مكتبة٨.jpg", name: "L008 مكتبة", price: "3000", details: ` <details class="t1">
+        { img: "/image/مكتبة/مكتبة٨.webp", name: "L008 مكتبة", price: "3000", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1683,7 +1683,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/مكتبة/مكتبة٤.jpg", name: "L004 مكتبة", price: "2500", details: ` <details class="t1">
+        { img: "/image/مكتبة/مكتبة٤.webp", name: "L004 مكتبة", price: "2500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1742,7 +1742,7 @@ const productsList = [
         </details> ` }
       ],
        [
-        { img: "/image/كورنر/كورنر٤.jpg", name: "K004 كوفي كورنر", price: "1500", details: ` <details class="t1">
+        { img: "/image/كورنر/كورنر٤.webp", name: "K004 كوفي كورنر", price: "1500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1799,7 +1799,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/كورنر/كورنر٥.jpg", name: "K005 كوفي كورنر", price: "1200" ,details: ` <details class="t1">
+        { img: "/image/كورنر/كورنر٥.webp", name: "K005 كوفي كورنر", price: "1200" ,details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1856,7 +1856,7 @@ const productsList = [
 </div>
           </p>
         </details> ` },
-        { img: "/image/كورنر/كورنر٧.jpg", name: "K007 كوفي كورنر", price: "1800", details: ` <details class="t1">
+        { img: "/image/كورنر/كورنر٧.webp", name: "K007 كوفي كورنر", price: "1800", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1917,7 +1917,7 @@ const productsList = [
       
       
       [
-        { img: "/image/مكاتب/مكاتب١.jpg", name: "M001 مكتب", price: "3500", details: ` <details class="t1">
+        { img: "/image/مكاتب/مكاتب١.webp", name: "M001 مكتب", price: "3500", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -1970,7 +1970,7 @@ const productsList = [
 </div>
           </p>
         </details> `},
-        { img: "/image/مكاتب/مكاتب٢٠.jpg", name: "M020 مكتب", price: "2800", details: ` <details class="t1">
+        { img: "/image/مكاتب/مكاتب٢٠.webp", name: "M020 مكتب", price: "2800", details: ` <details class="t1">
           <summary></summary>
           <p>
             
@@ -2023,7 +2023,7 @@ const productsList = [
 </div>
           </p>
         </details> `},
-        { img: "/image/مكاتب/مكاتب٢٣.jpg", name: "M023 مكتب", price: "2000", details: `  <details class="t1">
+        { img: "/image/مكاتب/مكاتب٢٣.webp", name: "M023 مكتب", price: "2000", details: `  <details class="t1">
           <summary></summary>
           <p>
             
@@ -2389,7 +2389,7 @@ let message = " *طلب جديد من المتجر:*\n\n";
     message += ` *رقم الهاتف:* ${customerPhone.value}\n`;
     message += ` *العنوان:* ${customerAddress.value}\n`;
 
-    const phoneNumber = "201008957009";
+    const phoneNumber = "201144504327";
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
     window.open(whatsappURL, "_blank");
