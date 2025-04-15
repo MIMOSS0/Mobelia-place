@@ -11,14 +11,14 @@
 const productsList = [
   {
     imgs: [
-      "../image/مكتبة/مكتبة٢٠.jpg",      
+      "../image/مكتبة/مكتبة٢٠.webp",      
     ],
     name: "L001 مكتبة",
     price: "2500"
   },
   {
     imgs: [
-      "../image/مكتبة/مكتبة٢.jpg"
+      "../image/مكتبة/مكتبة٢.webp"
       
     ],
     name: "L002 مكتبة",
@@ -26,56 +26,56 @@ const productsList = [
   },
   {
     imgs: [
-      "../image/مكتبة/مكتبة٣.jpg"      
+      "../image/مكتبة/مكتبة٣.webp"      
     ],
     name: "L003 مكتبة",
     price: "4500"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة٤.jpg"      
+      "../image/مكتبة/مكتبة٤.webp"      
     ],
     name: "L004 مكتبة",
     price: "2500"
   }, 
    {
     imgs: [
-      "../image/مكتبة/مكتبة٥.jpg"
+      "../image/مكتبة/مكتبة٥.webp"
     ],
     name: "L005 مكتبة",
     price: "3000"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة٦.jpg"    
+      "../image/مكتبة/مكتبة٦.webp"    
     ],
     name: "L006 مكتبة",
     price: "3000"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة٧.jpg"      
+      "../image/مكتبة/مكتبة٧.webp"      
     ],
     name: "L007 مكتبة",
     price: "2500"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة٨.jpg"
+      "../image/مكتبة/مكتبة٨.webp"
     ],
     name: "L008 مكتبة",
     price: "3000"
   },
     {
     imgs: [
-      "../image/مكتبة/مكتبة٩.jpg",      
+      "../image/مكتبة/مكتبة٩.webp",      
     ],
     name: "L009 مكتبة",
     price: "1800"
   },
   {
     imgs: [
-      "../image/مكتبة/مكتبة١٠.jpg"
+      "../image/مكتبة/مكتبة١٠.webp"
       
     ],
     name: "L010 مكتبة",
@@ -83,70 +83,70 @@ const productsList = [
   },
   {
     imgs: [
-      "../image/مكتبة/مكتبة١١.jpg"      
+      "../image/مكتبة/مكتبة١١.webp"      
     ],
     name: "L011 مكتبة",
     price: "800"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة١٢.jpg"      
+      "../image/مكتبة/مكتبة١٢.webp"      
     ],
     name: "L012 مكتبة",
     price: "2200"
   }, 
    {
     imgs: [
-      "../image/مكتبة/مكتبة١٣.jpg"
+      "../image/مكتبة/مكتبة١٣.webp"
     ],
     name: "L013 مكتبة",
     price: "3000"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة١٤.jpg"    
+      "../image/مكتبة/مكتبة١٤.webp"    
     ],
     name: "L014 مكتبة",
     price: "8500"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة١٥.jpg"      
+      "../image/مكتبة/مكتبة١٥.webp"      
     ],
     name: "L015 مكتبة",
     price: "2500"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة١٦.jpg"
+      "../image/مكتبة/مكتبة١٦.webp"
     ],
     name: "L016 مكتبة",
     price: "1200"
   },
     {
     imgs: [
-      "../image/مكتبة/مكتبة١٧.jpg"
+      "../image/مكتبة/مكتبة١٧.webp"
     ],
     name: "L017 مكتبة",
     price: "2500"
   },
     {
     imgs: [
-      "../image/مكتبة/مكتبة١٨.jpg"
+      "../image/مكتبة/مكتبة١٨.webp"
     ],
     name: "L018 مكتبة",
     price: "1800"
   },
     {
     imgs: [
-      "../image/مكتبة/مكتبة١٩.jpg"
+      "../image/مكتبة/مكتبة١٩.webp"
     ],
     name: "L019 مكتبة",
     price: "3000"
   },
    {
     imgs: [
-      "../image/مكتبة/مكتبة١.jpg"
+      "../image/مكتبة/مكتبة١.webp"
     ],
     name: "L020 مكتبة",
     price: "2500"
