@@ -6,162 +6,162 @@
 
 const productsList = [
   {
-    imgs: ["../image/دولاب/دولاب١.jpg"],
+    imgs: ["../image/دولاب/دولاب١.webp"],
     name: "D001 دولاب",
     price: "٣٥٠٠"
   },
   {
-    imgs: ["../image/دولاب/دولاب٢.jpg"],
+    imgs: ["../image/دولاب/دولاب٢.webp"],
     name: "D002 دولاب",
     price: "٣٥٠٠"
   },
   {
-    imgs: ["../image/دولاب/دولاب٣.jpg"],
+    imgs: ["../image/دولاب/دولاب٣.webp"],
     name: "D003 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٤.jpg"],
+    imgs: ["../image/دولاب/دولاب٤.webp"],
     name: "D004 دولاب",
     price: "٣٠٠٠"
   }, 
    {
-    imgs: ["../image/دولاب/دولاب٥.jpg"],
+    imgs: ["../image/دولاب/دولاب٥.webp"],
     name: "D005 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٦.jpg"],
+    imgs: ["../image/دولاب/دولاب٦.webp"],
     name: "D006 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٧.jpg"],
+    imgs: ["../image/دولاب/دولاب٧.webp"],
     name: "D007 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٨.jpg"],
+    imgs: ["../image/دولاب/دولاب٨.webp"],
     name: "D008 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٩.jpg"],
+    imgs: ["../image/دولاب/دولاب٩.webp"],
     name: "D009 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٠.jpg"],
+    imgs: ["../image/دولاب/دولاب١٠.webp"],
     name: "D010 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١١.jpg"],
+    imgs: ["../image/دولاب/دولاب١١.webp"],
     name: "D011 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٢.jpg"],
+    imgs: ["../image/دولاب/دولاب١٢.webp"],
     name: "D012 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٣.jpg"],
+    imgs: ["../image/دولاب/دولاب١٣.webp"],
     name: "D013 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٤.jpg"],
+    imgs: ["../image/دولاب/دولاب١٤.webp"],
     name: "D014 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٥.jpg"],
+    imgs: ["../image/دولاب/دولاب١٥.webp"],
     name: "D015 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٦.jpg"],
+    imgs: ["../image/دولاب/دولاب١٦.webp"],
     name: "D016 دولاب",
     price: "٣٢٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٧.jpg"],
+    imgs: ["../image/دولاب/دولاب١٧.webp"],
     name: "D017 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٨.jpg"],
+    imgs: ["../image/دولاب/دولاب١٨.webp"],
     name: "D018 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب١٩.jpg"],
+    imgs: ["../image/دولاب/دولاب١٩.webp"],
     name: "D019 دولاب",
     price: "٣٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٠.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٠.webp"],
     name: "D020 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢١.jpg"],
+    imgs: ["../image/دولاب/دولاب٢١.webp"],
     name: "D021 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٢.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٢.webp"],
     name: "D022 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٣.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٣.webp"],
     name: "D023 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٤.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٤.webp"],
     name: "D024 دولاب",
     price: "٤٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٥.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٥.webp"],
     name: "D025 دولاب",
     price: "٤٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٦.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٦.webp"],
     name: "D026 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٧.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٧.webp"],
     name: "D027 دولاب",
     price: "٤٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٨.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٨.webp"],
     name: "D028 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٢٩.jpg"],
+    imgs: ["../image/دولاب/دولاب٢٩.webp"],
     name: "D029 دولاب",
     price: "٤٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٣٠.jpg"],
+    imgs: ["../image/دولاب/دولاب٣٠.webp"],
     name: "D030 دولاب",
     price: "٤٠٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٣١.jpg"],
+    imgs: ["../image/دولاب/دولاب٣١.webp"],
     name: "D031 دولاب",
     price: "٣٥٠٠"
   },
    {
-    imgs: ["../image/دولاب/دولاب٣٢.jpg"],
+    imgs: ["../image/دولاب/دولاب٣٢.webp"],
     name: "D032 دولاب",
     price: "٣٠٠٠"
   }
