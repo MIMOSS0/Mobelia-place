@@ -10,14 +10,14 @@
 const productsList = [
   {
     imgs: [
-      "../image/تسريحة/١.jpg",      
+      "../image/تسريحة/١.webp",      
     ],
     name: "R001 تسريحة",
     price: "3500"
   },
   {
     imgs: [
-      "../image/تسريحة/٢.jpg"
+      "../image/تسريحة/٢.webp"
       
     ],
     name: "R002 تسريحة",
@@ -25,21 +25,21 @@ const productsList = [
   },
   {
     imgs: [
-      "../image/تسريحة/٣.jpg"      
+      "../image/تسريحة/٣.webp"      
     ],
     name: "R003 تسريحة",
     price: "5000"
   },
    {
     imgs: [
-      "../image/تسريحة/٤.jpg"      
+      "../image/تسريحة/٤.webp"      
     ],
     name: "R004 تسريحة",
     price: "6500"
   }, 
    {
     imgs: [
-      "../image/تسريحة/٥.jpg"
+      "../image/تسريحة/٥.webp"
       
     ],
     name: "R005 تسريحة",
@@ -47,42 +47,42 @@ const productsList = [
   },
    {
     imgs: [
-      "../image/تسريحة/٦.jpg"    
+      "../image/تسريحة/٦.webp"    
     ],
     name: "R006 تسريحة",
     price: "5500"
   },
    {
     imgs: [
-      "../image/تسريحة/٧.jpg"      
+      "../image/تسريحة/٧.webp"      
     ],
     name: "R007 تسريحة",
     price: "4500"
   },
    {
     imgs: [
-      "../image/تسريحة/٨.jpg"
+      "../image/تسريحة/٨.webp"
     ],
     name: "R008 تسريحة",
     price: "4000"
   },
    {
     imgs: [
-      "../image/تسريحة/٩.jpg"
+      "../image/تسريحة/٩.webp"
     ],
     name: "R009 تسريحة",
     price: "3500"
   },
     {
     imgs: [
-      "../image/تسريحة/١٠.jpg"      
+      "../image/تسريحة/١٠.webp"      
     ],
     name: "R010 تسريحة",
     price: "3500"
   },
    {
     imgs: [
-      "../image/تسريحة/١١.jpg"
+      "../image/تسريحة/١١.webp"
     ],
     name: "R011 تسريحة",
     price: "5500"
