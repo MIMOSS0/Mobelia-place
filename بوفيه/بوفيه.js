@@ -11,62 +11,62 @@
 
     const productsList = [
   {
-    imgs: ["../image/بوفية/بوفيه١.jpg"],
+    imgs: ["../image/بوفية/بوفيه١.webp"],
     name: "R001 بوفيه",
     price: "10000"
   },
   {
-    imgs: ["../image/بوفية/بوفيه٢.jpg"],
+    imgs: ["../image/بوفية/بوفيه٢.webp"],
     name: "R002 بوفيه",
     price: "10000"
   },
   {
-    imgs: ["../image/بوفية/بوفيه٣.jpg"],
+    imgs: ["../image/بوفية/بوفيه٣.webp"],
     name: "R003 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه٥.jpg"],
+    imgs: ["../image/بوفية/بوفيه٥.webp"],
     name: "R004 بوفيه",
     price: "10000"
   }, 
    {
-    imgs: [ "../image/بوفية/بوفيه٥.jpg"],
+    imgs: [ "../image/بوفية/بوفيه٥.webp"],
     name: "R005 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه٦.jpg"],
+    imgs: ["../image/بوفية/بوفيه٦.webp"],
     name: "R006 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه٧.jpg"],
+    imgs: ["../image/بوفية/بوفيه٧.webp"],
     name: "R007 بوفيه",
     price: "8000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه٨.png"],
+    imgs: ["../image/بوفية/بوفيه٨.webp"],
     name: "R008 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه٩.jpg"],
+    imgs: ["../image/بوفية/بوفيه٩.webp"],
     name: "R009 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه١٠.jpg"],
+    imgs: ["../image/بوفية/بوفيه١٠.webp"],
     name: "R010 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه١١.jpg"],
+    imgs: ["../image/بوفية/بوفيه١١.webp"],
     name: "R011 بوفيه",
     price: "10000"
   },
    {
-    imgs: ["../image/بوفية/بوفيه١٢.jpg"],
+    imgs: ["../image/بوفية/بوفيه١٢.webp"],
     name: "R012 بوفيه",
     price: "10000"
   }
