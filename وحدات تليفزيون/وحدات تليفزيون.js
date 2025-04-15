@@ -6,78 +6,78 @@
 
  const productsList = [
  {
-    imgs: ["../image/تليفزيون/وحدة١٢.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٢.webp"],
     name: "C01 وحدة تليفزيون",
     price: "1800"
   },
   {
-    imgs: ["../image/تليفزيون/وحدة١٤.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٤.webp"],
     name: "C02 وحدة تليفزيون",
     price: "1500"
   },
   {
-    imgs: ["../image/تليفزيون/وحدة١٦.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٦.webp"],
     name: "C03 وحدة تليفزيون",
     price: "1200"
   },
   {
-    imgs: ["../image/تليفزيون/وحدة١٧.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٧.webp"],
     name: "C04 وحدة تليفزيون",
     price: "2000"
   },
 
    {
-    imgs: ["../image/تليفزيون/وحدة٢٨.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٨.webp"],
     name: "C05 وحدة تليفزيون",
     price: "3000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٢٩.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٩.webp"],
     name: "C06 وحدة تليفزيون",
     price: "2800"
   },
   {
-    imgs: ["../image/تليفزيون/وحدة٣.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣.webp"],
     name: "C07 وحدة تليفزيون",
     price: "2000"
   },
    
    {
-    imgs: ["../image/تليفزيون/وحدة٧.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٧.webp"],
     name: "C08 وحدة تليفزيون",
     price: "1500"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٩.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٩.webp"],
     name: "C09 وحدة تليفزيون",
     price: "1500"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة١٠.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٠.webp"],
     name: "C10 وحدة تليفزيون",
     price: "5000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة١١.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١١.webp"],
     name: "C11 وحدة تليفزيون",
     price: "1800"
   },
    
    {
-    imgs: ["../image/تليفزيون/١٢.jpg" ],
+    imgs: ["../image/تليفزيون/١٢.webp" ],
     name: "C12 وحدة تليفزيون",
     price: "1800"
   },
    
    {
-    imgs: [ "../image/تليفزيون/١٦.jpg"],
+    imgs: [ "../image/تليفزيون/١٦.webp"],
     name: "C13 وحدة تليفزيون",
     price: "1500"
   },
    
    
    {
-    imgs: ["../image/تليفزيون/وحدة١٨.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٨.webp"],
     name: "C14 وحدة تليفزيون",
     price: "1500"
   },
@@ -85,27 +85,27 @@
  
   
    {
-    imgs: ["../image/تليفزيون/وحدة٣٠.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣٠.webp"],
     name: "C15 وحدة تليفزيون",
     price: "2500"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٣١.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣١.webp"],
     name: "C16 وحدة تليفزيون",
     price: "2500"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٣٢.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣٢.webp"],
     name: "C17 وحدة تليفزيون",
     price: "2200"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٣٣.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣٣.webp"],
     name: "C18 وحدة تليفزيون",
     price: "3000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٣٤.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٣٤.webp"],
     name: "C19 وحدة تليفزيون",
     price: "3000"
   },
@@ -117,43 +117,43 @@
  /*  طقم ليفينج */
   
   {
-    imgs: ["../image/تليفزيون/وحدة٢٥.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٥.webp"],
     name: "J001 طقم ليفينج",
     price: "3000"
   } ,
     {
-    imgs: ["../image/تليفزيون/وحدة١٩.jpg"],
+    imgs: ["../image/تليفزيون/وحدة١٩.webp"],
     name: "J002 طقم ليفينج",
     price: "3000"
   },
   {
-    imgs: ["../image/تليفزيون/وحدة٤.png"],
+    imgs: ["../image/تليفزيون/وحدة٤.webp"],
     name: "J003 طقم ليفينج",
     price: "3000"
   }, 
     {
-    imgs: ["../image/تليفزيون/وحدة٢٠.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٠.webp"],
     name: "J004 طقم ليفينج",
     price: "3000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٢١.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢١.webp"],
     name: "J005 طقم ليفينج",
     price: "3000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٢٤.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٤.webp"],
     name: "J006 طقم ليفينج",
     price: "3000"
   },
    
    {
-    imgs: ["../image/تليفزيون/وحدة٢٦.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٦.webp"],
     name: "J007 طقم ليفينج",
     price: "3000"
   },
    {
-    imgs: ["../image/تليفزيون/وحدة٢٧.jpg"],
+    imgs: ["../image/تليفزيون/وحدة٢٧.webp"],
     name: "J008 طقم ليفينج",
     price: "3000"
   }
