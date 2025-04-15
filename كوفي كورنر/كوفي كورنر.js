@@ -6,42 +6,42 @@
 
 const productsList = [
   {
-    imgs: ["../image/كورنر/كورنر١.jpg"],
+    imgs: ["../image/كورنر/كورنر١.webp"],
     name: "K001 كوفي كورنر",
     price: "3500"
   },
   {
-    imgs: ["../image/كورنر/كورنر٢.jpg"],
+    imgs: ["../image/كورنر/كورنر٢.webp"],
     name: "K002 كوفي كورنر",
     price: "2500"
   },
   {
-    imgs: ["../image/كورنر/كورنر٣.jpg"],
+    imgs: ["../image/كورنر/كورنر٣.webp"],
     name: "K003 كوفي كورنر",
     price: "1200"
   },
    {
-    imgs: ["../image/كورنر/كورنر٤.jpg"],
+    imgs: ["../image/كورنر/كورنر٤.webp"],
     name: "K004 كوفي كورنر",
     price: "1500"
   }, 
    {
-    imgs: ["../image/كورنر/كورنر٥.jpg"],
+    imgs: ["../image/كورنر/كورنر٥.webp"],
     name: "K005 كوفي كورنر",
     price: "1200"
   },
    {
-    imgs: ["../image/كورنر/كورنر٦.jpg"],
+    imgs: ["../image/كورنر/كورنر٦.webp"],
     name: "K006 كوفي كورنر",
     price: "2500"
   },
    {
-    imgs: ["../image/كورنر/كورنر٧.jpg"],
+    imgs: ["../image/كورنر/كورنر٧.webp"],
     name: "K007 كوفي كورنر",
     price: "1800"
   },
    {
-    imgs: ["../image/كورنر/كورنر٨.jpg"],
+    imgs: ["../image/كورنر/كورنر٨.webp"],
     name: "K008 كوفي كورنر",
     price: "3000"
   }
