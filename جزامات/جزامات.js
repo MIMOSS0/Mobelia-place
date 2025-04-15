@@ -6,137 +6,137 @@
 
 const productsList = [
   {
-    imgs: ["../image/جزامات/جزامة١.jpg"],
+    imgs: ["../image/جزامات/جزامة١.webp"],
     name: "G001 جزامة",
     price: "3500"
   },
   {
-    imgs: ["../image/جزامات/جزامة٢.jpg"],
+    imgs: ["../image/جزامات/جزامة٢.webp"],
     name: "G002 جزامة",
     price: "4000"
   },
   {
-    imgs: ["../image/جزامات/جزامة٣.jpg"],
+    imgs: ["../image/جزامات/جزامة٣.webp"],
     name: "G003 جزامة",
     price: "4000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٤.jpg"],
+    imgs: ["../image/جزامات/جزامة٤.webp"],
     name: "G004 جزامة",
     price: "4000"
   }, 
    {
-    imgs: ["../image/جزامات/جزامة٥.jpg"],
+    imgs: ["../image/جزامات/جزامة٥.webp"],
     name: "G005 جزامة",
     price: "4000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٦.jpg"],
+    imgs: ["../image/جزامات/جزامة٦.webp"],
     name: "G006 جزامة",
     price: "4000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٧.jpg"],
+    imgs: ["../image/جزامات/جزامة٧.webp"],
     name: "G007 جزامة",
     price: "3000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٨.jpg"],
+    imgs: ["../image/جزامات/جزامة٨.webp"],
     name: "G008 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٩.jpg"],
+    imgs: ["../image/جزامات/جزامة٩.webp"],
     name: "G009 جزامة",
     price: "4500"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٠.jpg"],
+    imgs: ["../image/جزامات/جزامة١٠.webp"],
     name: "G010 جزامة",
     price: "1800"
   },
    {
-    imgs: ["../image/جزامات/جزامة١١.jpg"],
+    imgs: ["../image/جزامات/جزامة١١.webp"],
     name: "G011 جزامة",
     price: "2000"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٢.jpg"],
+    imgs: ["../image/جزامات/جزامة١٢.webp"],
     name: "G012 جزامة",
     price: "4500"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٣.jpg"],
+    imgs: ["../image/جزامات/جزامة١٣.webp"],
     name: "G013 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٤.jpg"],
+    imgs: ["../image/جزامات/جزامة١٤.webp"],
     name: "G014 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٥.jpg"],
+    imgs: ["../image/جزامات/جزامة١٥.webp"],
     name: "G015 جزامة",
     price: "3500"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٦.jpg"],
+    imgs: ["../image/جزامات/جزامة١٦.webp"],
     name: "G016 جزامة",
     price: "3000"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٧.jpg"],
+    imgs: ["../image/جزامات/جزامة١٧.webp"],
     name: "G017 جزامة",
     price: "4500"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٨.jpg"],
+    imgs: ["../image/جزامات/جزامة١٨.webp"],
     name: "G018 جزامة",
     price: "3500"
   },
    {
-    imgs: ["../image/جزامات/جزامة١٩.jpg"],
+    imgs: ["../image/جزامات/جزامة١٩.webp"],
     name: "G019 جزامة",
     price: "2000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٠.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٠.webp"],
     name: "G020 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢١.jpg"],
+    imgs: ["../image/جزامات/جزامة٢١.webp"],
     name: "G021 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٢.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٢.webp"],
     name: "G022 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٣.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٣.webp"],
     name: "G023 جزامة",
     price: "4500"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٤.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٤.webp"],
     name: "G024 جزامة",
     price: "4500"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٥.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٥.webp"],
     name: "G025 جزامة",
     price: "5000"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٦.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٦.webp"],
     name: "G026 جزامة",
     price: "3500"
   },
    {
-    imgs: ["../image/جزامات/جزامة٢٧.jpg"],
+    imgs: ["../image/جزامات/جزامة٢٧.webp"],
     name: "G027 جزامة",
     price: "4000"
   }
