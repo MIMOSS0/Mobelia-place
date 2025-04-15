@@ -9,72 +9,72 @@
  
  const productsList = [
   {
-    imgs: ["../image/اكسسوارات/١.jpg"],
+    imgs: ["../image/اكسسوارات/١.webp"],
     name: "E001 وحدة اكسسوار",
     price: "4000"
   },
   {
-    imgs: ["../image/اكسسوارات/٢.jpg"],
+    imgs: ["../image/اكسسوارات/٢.webp"],
     name: "E002 وحدة اكسسوار",
     price: "4000"
   },
   {
-    imgs: ["../image/اكسسوارات/٣.jpg"],
+    imgs: ["../image/اكسسوارات/٣.webp"],
     name: "E003 وحدة اكسسوار",
     price: "3500"
   },
    {
-    imgs: ["../image/اكسسوارات/٤.jpg"],
+    imgs: ["../image/اكسسوارات/٤.webp"],
     name: "E004 وحدة اكسسوار",
     price: "3000"
   }, 
    {
-    imgs: ["../image/اكسسوارات/٥.jpg"],
+    imgs: ["../image/اكسسوارات/٥.webp"],
     name: "E005 وحدة اكسسوار",
     price: "4500"
   },
    {
-    imgs: ["../image/اكسسوارات/٦.jpg"],
+    imgs: ["../image/اكسسوارات/٦.webp"],
     name: "E006 وحدة اكسسوار",
     price: "6000"
   },
    {
-    imgs: ["../image/اكسسوارات/٧.jpg"],
+    imgs: ["../image/اكسسوارات/٧.webp"],
     name: "E007 وحدة اكسسوار",
     price: "4000"
   },
    {
-    imgs: ["../image/اكسسوارات/٨.jpg"],
+    imgs: ["../image/اكسسوارات/٨.webp"],
     name: "E008 وحدة اكسسوار",
     price: "3500"
   },
    {
-    imgs: ["../image/اكسسوارات/٩.jpg"],
+    imgs: ["../image/اكسسوارات/٩.webp"],
     name: "E009 وحدة اكسسوار",
     price: "4000"
   },
    {
-    imgs: ["../image/اكسسوارات/١٠.jpg"],
+    imgs: ["../image/اكسسوارات/١٠.webp"],
     name: "E010 وحدة اكسسوار",
     price: "5000"
   },
    {
-    imgs: ["../image/اكسسوارات/١١.jpg"],
+    imgs: ["../image/اكسسوارات/١١.webp"],
     name: "E011 وحدة اكسسوار",
     price: "5000"
   },
    {
-    imgs: ["../image/اكسسوارات/١٢.jpg"],
+    imgs: ["../image/اكسسوارات/١٢.webp"],
     name: "E012 وحدة اكسسوار",
     price: "5500"
   },
    {
-    imgs: ["../image/اكسسوارات/١٣.jpg"],
+    imgs: ["../image/اكسسوارات/١٣.webp"],
     name: "E013 وحدة اكسسوار",
     price: "4000"
   },
    {
-    imgs: ["../image/اكسسوارات/١٤.jpg"],
+    imgs: ["../image/اكسسوارات/١٤.webp"],
     name: "E014 وحدة اكسسوار",
     price: "3000"
   }
