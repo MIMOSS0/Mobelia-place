@@ -290,7 +290,7 @@ let message = " *طلب جديد من المتجر:*\n\n";
     message += ` *رقم الهاتف:* ${customerPhone.value}\n`;
     message += ` *العنوان:* ${customerAddress.value}\n`;
 
-    const phoneNumber = "201144504327";
+    const phoneNumber = "201008957009";
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
     window.open(whatsappURL, "_blank");
